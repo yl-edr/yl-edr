@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yaal and I'm a second-year Computer Science student from Spain.</p>
+<p align="left">My name is Yaal and I'm a second-year Computer Science MSci student from Spain.</p>
 
 ###
 
