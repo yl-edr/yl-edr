@@ -12,7 +12,7 @@
 
 <p align="left">
 📚 Currently studying at King's College London.<br>
-🏃🏻‍♂️ I'm athlete and triathlete as well as a drummer.<br>
+🏃🏻‍♂️ I'm athlete and triathlete.<br>
 🥁 I'm also a drummer!<br>
 🚀 Always looking for new experiences and challenges!</p>
 
