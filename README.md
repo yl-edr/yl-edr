@@ -12,7 +12,7 @@
 
 <p align="left">
 📚 Currently studying at King's College London.<br>
-🏃🏻‍♂️ I'm athlete and triathlete.<br>
+🏃🏻‍♂️ I'm athlete and triathlete as well as a drummer.<br>
 🥁 I'm also a drummer!<br>
 🚀 Always looking for new experiences and challenges!</p>
 
@@ -20,16 +20,24 @@
 
 <h2 align="left">Tech Stack</h2>
 
-###
-
+<h3>Languages & Databases:<h3>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="sql logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="html logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="css logo"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="40" alt="latex logo"/>
+</div>
+
+<h3 align="left">Developer Tools:</h3>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="github logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
 </div>
 
 ###
